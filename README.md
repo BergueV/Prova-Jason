@@ -16,15 +16,7 @@ pip install requests
 
 **1. Preencha seus dados no `main.py`**
 
-Abra o arquivo `main.py` e edite as 3 linhas no início:
 
-```python
-SEU_EMAIL = "seu_email_real@gmail.com"
-SUA_SENHA = "SuaSenhaForte123!"
-SEU_NOME  = "Seu Nome Completo"
-```
-
----
 
 **2. Rode o script pela primeira vez (cadastro)**
 
